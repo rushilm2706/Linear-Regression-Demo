@@ -1,6 +1,6 @@
 # Linear-Regression-Code-Demo
 
-- Figure 1 is an example of an ideal data and ideal regression line. This can be used to introduce the basic concept of linear regression.
+- Figure 1 in the ipynb file is an example of an ideal data and ideal regression line. This can be used to introduce the basic concept of linear regression.
 - For the credit dataset we have 'Balance' as the dependent variable and all other columns are independent variables.
 - Plotting 'Balance' against 'Income' we can see that we get a scatterplot which is not perfectly linear and in real life we will be given this type of dataset.
 - We are using a small cars dataset with 392 rows which has 4 columns: ‘MPG ’: (Miles Per Gallon i.e efficiency of the car, ‘CYL’ : No. of cylinders, ‘ENG’: Engine Block Size(cc) , ‘WGT’ : Weight of the car(lbs).

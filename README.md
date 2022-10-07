@@ -1,6 +1,6 @@
 # Linear-Regression-Code-Demo 
 
-- This notebook will walk you through the code to understand the general concept of linear regression.
+- This notebook will walk you through the code to understand the general concept and application part of linear regression.
 - Figure 1 in the jupyter notebook is an example of an ideal data and ideal regression line. This is used to introduce the basic concept of linear regression.
 - For the credit dataset we have 'Balance' as the dependent variable and all other columns are independent variables.
 - Plotting 'Balance' against 'Income' we can see that we get a scatterplot which is not perfectly linear and in real life we will be given this type of dataset.
